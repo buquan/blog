@@ -14,6 +14,8 @@ export default {
 </script>
 <style scoped lang="stylus">
 .fixed_container {
+  display none;
+
   z-index: 999;
   position: fixed;
   left: 18px;
