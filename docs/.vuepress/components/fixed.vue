@@ -3,6 +3,7 @@
     <div class="tencent_code">
       <h4>关注作者</h4>
       <p>和万千小伙伴一起学习</p>
+      <!-- <img :src="$withBase('/logo.jpg')" alt="" /> -->
       <img src="/logo.jpg" alt="" />
     </div>
   </div>
